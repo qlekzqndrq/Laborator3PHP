@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang ="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>Gestiune Studenti</title>
+</head>
+<body>
+
+  <h2>Gestiune Studenți</h2>
+
+  <form action="gestiunestudenti.php" method="POST">
+    <input type="text" name="nume" placeholder="Nume student" required>
+    <input type="number" name="nota1" min="1" max="10" placeholder="Nota 1" required>
+    <input type="number" name="nota2" min="1" max="10" placeholder="Nota 2" required>
+    <input type="number" name="nota3" min="1" max="10" placeholder="Nota 3" required>
+    <button type="submit">Calculează Media</button>
+  </form>
+  
+</body>
+</html>
