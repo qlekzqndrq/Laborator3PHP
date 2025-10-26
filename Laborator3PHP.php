@@ -112,4 +112,7 @@
     echo "Varsta introdusa: " . htmlspecialchars($varstaInput);
     echo "</div>";
     }
+
     ?>
+  </body>
+</html>
