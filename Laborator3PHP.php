@@ -1,3 +1,25 @@
+<!-- Explicații:
+1. Variabile: Se declară și se utilizează variabile de tip string, integer și float.
+2. Constante: Se definește o constantă folosind funcția define().
+3. Afișare: Se folosește echo pentru a afișa text și valori ale variabilelor.
+4. Operații aritmetice: Se efectuează o operație de împărțire pentru a converti RON în EURO.
+5. Structuri condiționale: Se utilizează if-else pentru a verifica dacă o persoană este majoră sau minoră.
+6. Structuri repetitive: Se folosește o buclă for pentru a afișa o numărătoare.
+7. Array-uri: Se declară un array și se parcurge folosind foreach.
+8. Funcții: Se definește și se apelează o funcție simplă.
+9. Integrare cu HTML: Codul PHP este integrat cu markup HTML.
+10. Procesare formular: Se demonstrează cum se procesează datele dintr-un formular HTML folosind PHP.
+
+Exerciții:
+1. Modificați variabilele $nume, $varsta, și $inaltime cu propriile valori.
+2. Schimbați valoarea constantei CURS_EURO și observați cum se modifică rezultatul conversiei.
+3. Adăugați încă o operație aritmetică (de exemplu, calculul IMC-ului folosind înălțimea și o nouă variabilă pentru greutate).
+4. Modificați condiția din structura if-else pentru a verifica dacă vârsta este între 18 și 65 de ani.
+5. Extindeți bucla for pentru a număra până la 10.
+6. Adăugați mai multe elemente în array-ul $fructe.
+7. Creați o nouă funcție care primește doi parametri și returnează suma lor.
+8. Adăugați un nou câmp în formular (de exemplu, pentru vârstă) și procesați-l împreună cu numele. -->
+
 <!DOCTYPE html>
 <html lang="ro">
   <head>
